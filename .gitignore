@@ -66,5 +66,7 @@ buck-out/
 #lock file
 package-lock.json
 
+yarn.lock
+
 .vscode/
 
