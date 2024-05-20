@@ -19,7 +19,7 @@ module.exports = {
         'react/display-name': 'off',
         'react/prop-types': ['error'],
         'prettier/prettier': 'error',
-        '@typescript-eslint/no-explicit-any': ['off'],
+        '@typescript-eslint/no-explicit-any': ['warn'],
       },
     },
   ],
